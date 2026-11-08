@@ -1,5 +1,5 @@
 package model;
 
-public class BasvuruDurumu {
-    
+public enum BasvuruDurumu {
+    ASIL ,YEDEK
 }
